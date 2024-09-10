@@ -17,7 +17,18 @@ Como em um lego, você irá utilizar peças para criar algoritmos, ou seja para 
 
 # Fases da resolução de um problema
 
-
 Coletar os dados    
 Processar os dados(manipular,alterar...)
 Apresentar os dados
+
+## Escopo e variáveis:
+Variáveis globais e locais
+constantes
+
+## Tipos de dados##
+Strings: (textos) "" '' ``
+Number: 2 1.4
+Function
+
+## Operadores
+Operadores de atribuição de valor
