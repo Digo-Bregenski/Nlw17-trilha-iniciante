@@ -7,7 +7,7 @@ Como em um lego, você irá utilizar peças para criar algoritmos, ou seja para 
 
 ## Peças de uma linguagem
 
--Comentários
+-Comentários[x]
 -Declaração de variáveis (const, let)
 -Operadores (atribuição, concatenação , matemáticos,lógicos)
 -Tipos de dados (string, number,boolean)
