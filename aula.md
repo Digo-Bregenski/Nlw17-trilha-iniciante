@@ -49,10 +49,13 @@ Apresentar os dados
 -[x]Criação e manipulação de objetos
 -[x]Acesso a propriedade de objetos
 
-
 ### Functions
 
 -[x]criar,passar argumento
 -[x]executar
 -[x] arrow function / named function
+
+# Estrutura de repetição
+
+-[x] while
 
